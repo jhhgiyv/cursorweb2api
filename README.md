@@ -4,10 +4,12 @@
 
 > [!CAUTION]
 > 接口掺水，模型不保真
-> anthropic/claude-sonnet-4.5 路由到 claude-3.5
-> google/gemini-2.5-flash
-> openai/gpt-5-nano
-> 其他模型路由到 claude-3.5
+
+
+- anthropic/claude-sonnet-4.5 路由到 claude-3.5
+- google/gemini-2.5-flash
+- openai/gpt-5-nano
+- 其他模型路由到 claude-3.5
 
 ## 🚀 一键部署
 
